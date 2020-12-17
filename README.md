@@ -8,7 +8,7 @@
 On MacOS and Windows, both are bundled inside the Docker Desktop application.
 - **Using a Linux operating system like Ubuntu is strongly recommended.**
 - On Windows, make sure to use a *bash-like* terminal.
-- Clone the project using `git clone https://github.com/talentedev/agile-screening.git` inside
+- Clone the project using `git@github.com:coolenginner/agile-vue.git` inside
 your working directory.
 
 ### First steps
